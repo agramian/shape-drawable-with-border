@@ -1,4 +1,4 @@
-package com.example.app;
+package com.abtingramian.app;
 
 import android.app.Application;
 

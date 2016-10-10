@@ -1,4 +1,4 @@
-package com.example.gramian.shapedrawablewithborder;
+package com.abtingramian.shapedrawablewithborder;
 
 import android.graphics.Canvas;
 import android.graphics.Matrix;

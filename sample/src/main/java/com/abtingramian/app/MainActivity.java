@@ -1,4 +1,4 @@
-package com.example.app;
+package com.abtingramian.app;
 
 import android.graphics.Color;
 import android.graphics.Path;
@@ -10,7 +10,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.TypedValue;
 import android.view.View;
 
-import com.example.gramian.shapedrawablewithborder.ShapeDrawableWithBorder;
+import com.abtingramian.shapedrawablewithborder.ShapeDrawableWithBorder;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,1 +1,1 @@
-include ':app', ':shapedrawablewithborder'
+include ':sample', ':shapedrawablewithborder'
