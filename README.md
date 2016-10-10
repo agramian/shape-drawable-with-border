@@ -6,7 +6,7 @@ See the included sample app for an example of a circle and a triangle with a bor
 
 ### Including the dependency
 
-`compile 'com.abtingramian.shapedrawablewithborder:1.0.0`
+`compile 'com.abtingramian.shapedrawablewithborder:0.1`
 
 ### Usage
 
