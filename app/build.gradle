@@ -38,8 +38,9 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile project(":shapedrawablewithborder")
     // dependency version declarations for interpolation
-    def supportLibVer = '24.2.0'
+    def supportLibVer = '24.2.1'
     def supportTestLibVer = '0.5'
 
     // tests
