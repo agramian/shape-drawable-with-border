@@ -13,7 +13,7 @@ def grpPkgDescShort = "${grpPkgName} ${grpPkgVersion}"
 def grpPkgDescLong = "Shape Drawable with Border for Android"
 def siteUrl = 'https://github.com/agramian/shape-drawable-with-border'
 def gitUrl = "${siteUrl}.git"
-def licenseName = 'MIT License'
+def licenseName = 'MIT'
 def licenseUrl = "${siteUrl}/blob/master/LICENSE"
 def firstPublishYear = '2016'
 
