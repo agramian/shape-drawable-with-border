@@ -4,6 +4,8 @@ Create a custom `ShapeDrawable` with a border.
 
 See the included sample app for an example of a circle and a triangle with a border.
 
+![Screenshot](/screenshots/shape-drawable-with-border.png?raw=true "Shape Drawable with Border")
+
 ### Including the dependency
 
 `compile 'com.abtingramian.shapedrawablewithborder:0.1`
